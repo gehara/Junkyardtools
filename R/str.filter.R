@@ -1,4 +1,4 @@
-#' @title str.filter
+#' str.filter
 #' @description this function filters out individuals or loci with missing data according to a cut off percentage
 #' @param structure.file a matrix or data frame object representing the structure-like genotype file
 #' @param cutoff float. A percentage cutoff between 0 and 1 to exclude loci or individuals with missing data. Defaut NULL.

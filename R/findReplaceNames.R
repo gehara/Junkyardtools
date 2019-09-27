@@ -1,4 +1,4 @@
-#' @title findReplaceNames
+#' findReplaceNames
 #' @description  This script will find and replace expressions in sequence names of fasta files.
 #' @author Edward Myers and Marcelo Gehara
 #' @param path.to.fasta character string. path to the directory of fasta files. 

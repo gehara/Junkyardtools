@@ -1,4 +1,4 @@
-#' @title alignerTrimmer
+#' alignerTrimmer
 #' @description This function aligns and trims all fasta sequences present in a directory
 #' @author Marcelo Gehara and Edward Myers
 #' @param path.to.fasta character string. path to the directory of fasta files. 

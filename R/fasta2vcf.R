@@ -1,4 +1,4 @@
-#' @title fasta2VCF
+#' fasta2VCF
 #' @description  Converts a colection of phased fasta alignments into a VCF file  
 #' @author Gehara, M 
 #' @param path path to the directory where all fasta alignments are.

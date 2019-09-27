@@ -1,4 +1,4 @@
-#' @title excludeFromFasta
+#' excludeFromFasta
 #' @description this is to remove samples from final fasta alignments
 #' @param path character string. Path to the fasta alignments
 #' @param samples2exclude one column data frame with the name of the samples to exclude from fasta alignments.

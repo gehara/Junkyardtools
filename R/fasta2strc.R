@@ -1,4 +1,4 @@
-#' @title fasta2struc
+#' fasta2struc
 #' @description THIS SCRIPT PULLS OUT A RANDOM SNP FROM THE ALIGNMENTS TO MAKE A STRUCTURE FILE.
 #' @author Gehara, M.
 #' @param path path to the directory where all fasta alignments are.
