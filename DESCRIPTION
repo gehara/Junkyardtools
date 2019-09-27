@@ -22,3 +22,4 @@ URL: http://www.marcelogehara.org/
 BugReports: marcelo.gehara@gmail.com, eddie.a.myers@gmail.com, burbrink666@gmail.com 
 LazyData: TRUE
 RoxygenNote: 6.1.1
+Encoding: UTF-8
