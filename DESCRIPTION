@@ -1,0 +1,22 @@
+Package: NGStools
+Type: Package
+Title: Toolbox for NGS data manipulation
+Version: 0.0.1
+Date: 2018-06-12
+Authors@R: c(person("Marcelo", "Gehara", email = "marcelo.gehara@gmail.com", role = c("aut", "cre")),
+             person("Edward","Myers", role="aut"),
+             person("Frank","Burbrink", role="aut"))
+Imports:ape,
+		pegas,
+		Biostrings,
+		DECIPHER,
+Depends:ape,
+		pegas,
+		Biostrings,
+		DECIPHER,
+Description: Toolbox for NGS data manipulation
+License: GPL (>= 2)
+URL: http://www.marcelogehara.org/
+BugReports: marcelo.gehara@gmail.com, eddie.a.myers@gmail.com
+LazyData: TRUE
+RoxygenNote: 6.0.1
