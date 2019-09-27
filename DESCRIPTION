@@ -1,22 +1,24 @@
-Package: NGStools
+Package: Junkyardtools
 Type: Package
-Title: Toolbox for NGS data manipulation
+Title: Toolbox for genetic junkyard survival
 Version: 0.0.1
 Date: 2018-06-12
 Authors@R: c(person("Marcelo", "Gehara", email = "marcelo.gehara@gmail.com", role = c("aut", "cre")),
              person("Edward","Myers", role="aut"),
              person("Frank","Burbrink", role="aut"))
-Imports:ape,
+Imports: ape,
 		pegas,
 		Biostrings,
 		DECIPHER,
-Depends:ape,
+		BiocManager
+Depends: ape,
 		pegas,
 		Biostrings,
 		DECIPHER,
+		BiocManager
 Description: Toolbox for NGS data manipulation
 License: GPL (>= 2)
 URL: http://www.marcelogehara.org/
-BugReports: marcelo.gehara@gmail.com, eddie.a.myers@gmail.com
+BugReports: marcelo.gehara@gmail.com, eddie.a.myers@gmail.com, burbrink666@gmail.com 
 LazyData: TRUE
-RoxygenNote: 6.0.1
+RoxygenNote: 6.1.1

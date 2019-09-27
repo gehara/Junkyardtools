@@ -4,9 +4,10 @@
 \alias{alignerTrimmer}
 \title{alignerTrimmer}
 \usage{
-alignerTrimmer(path.to.fasta, samples.cutoff, quantile.cutoff = 0.25,
-  segsites.cutoff = 0.5, remove.gaps = T, input.id.name = "uce-",
-  output.prefix = "ALTRIM_", output.dir = "OUT")
+alignerTrimmer(path.to.fasta = getwd(), samples.cutoff = 10,
+  quantile.cutoff = 0.25, segsites.cutoff = 0.5, remove.gaps = T,
+  input.id.name = "uce-", output.prefix = "ALTRIM_",
+  output.dir = "OUT")
 }
 \arguments{
 \item{path.to.fasta}{character string. path to the directory of fasta files.}
